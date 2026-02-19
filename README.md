@@ -1,4 +1,5 @@
 IntelliSQL: Intelligent SQL Querying with LLMs Using Gemini Pro
+
 Team ID : LTVIP2026TMIDS64421
 Team Size: 4
 Team Leader: Kommu Priya
