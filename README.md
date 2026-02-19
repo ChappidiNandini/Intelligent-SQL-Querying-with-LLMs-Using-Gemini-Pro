@@ -1,12 +1,19 @@
 IntelliSQL: Intelligent SQL Querying with LLMs Using Gemini Pro
 
 Team ID : LTVIP2026TMIDS64421
+
 Team Size: 4
-Team Leader: Kommu Priya
+
+Team Leader: Kommu Priya 
+
 Team member: Gandikota Prasanna Jyothi
+
 Team member: Chappidi Nandini
+
 Team member: Bolligarla Durga Parvathi
+
 Project Overview
+
 IntelliSQL is an AI-powered web application that enables users to interact with an SQL database using natural language. Built with Streamlit and integrated with Google's Gemini Pro large language model, IntelliSQL translates plain English questions into SQL queries, executes them on a student database, and displays the results. This empowers users—regardless of their SQL expertise—to explore and analyze data efficiently.
 Introduction
 Intelligent SQL Querying with LLMs using Gemini Pro
